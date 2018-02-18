@@ -1,0 +1,3 @@
+gemy_homepage:
+    path:     /
+    defaults: { _controller: GemyBundle:Default:index }

@@ -1,3 +1,7 @@
+gemy:
+    resource: "@GemyBundle/Resources/config/routing.yml"
+    prefix:   /
+
 app:
     resource: '@AppBundle/Controller/'
     type: annotation
